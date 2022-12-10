@@ -11,3 +11,8 @@
 3. Load virtual env `source .venv/bin/activate`
 4. Install required packages `pip install -r requirements.txt`
 5. Run server `python manage.py runserver`
+
+
+## Images
+
+![Users](images/Screenshot from 2022-12-10 21-32-18.png)
