@@ -15,4 +15,4 @@
 
 ## Images
 
-![Users](images/Screenshot from 2022-12-10 21-32-18.png)
+![Screenshot](./images/Screenshot.png)
